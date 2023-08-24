@@ -465,14 +465,13 @@ span{
     }
     #izquierda {
         width: 100%;
-        height: 46vh;
     }
     #tex {
         margin: 54px 10px 0px;
     }
     #derecha {
         width: 100%;
-        height: 54vh;
+
     }
     .img2 {
         width: 56%;
